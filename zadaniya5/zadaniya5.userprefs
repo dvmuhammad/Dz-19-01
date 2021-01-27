@@ -1,0 +1,13 @@
+﻿<Properties StartupConfiguration="{F5976C90-77CD-42AA-BDB5-ABD19E419B8A}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="zadaniya5\Program.cs">
+    <Files>
+      <File FileName="zadaniya5\Program.cs" Line="19" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.zadaniya5 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
